@@ -66,4 +66,4 @@ An e-commerce website with essential features for browsing products, managing a 
 ## How to Use 🚀
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Tanishgol/ecommerce-website.git
+   git clone [https://github.com/Tanishgol/ecommerce-website.git](https://github.com/Tanishgol/E_Commerce)
