@@ -66,4 +66,65 @@ An e-commerce website with essential features for browsing products, managing a 
 ## How to Use 🚀
 1. Clone the repository:
    ```bash
-    git clone https://github.com/Tanishgol/E_Commerce.git
+   git clone https://github.com/Tanishgol/E_Commerce.git
+2. Navigate into the project directory:
+    ```bash
+    cd E_Commerce
+    ```
+3. Open the `index.html` file in your browser to start the application.
+
+## Usage
+
+1. Browse products on the **Home Page** and add items to your cart.
+2. Review your cart on the **Shopping Cart Page**, where you can:
+   - Update quantities or remove items.
+   - View the **Order Summary** with Subtotal, Tax, and Total.
+3. Click **Proceed to Checkout** to go to the **Checkout Page**.
+4. On the **Checkout Page**:
+   - Fill in your billing information.
+   - Review the **Order Summary**.
+   - Enter the promo code **DISCOUNT10** for a 10% discount (if applicable).
+   - Select your preferred payment method (Credit Card, Debit Card, UPI, or Cash on Delivery).
+5. Submit your order to view the **Order Confirmation Page**, which displays:
+   - Order Number
+   - Order Date
+   - Total Amount
+   - Payment Method
+   - Detailed breakdown of ordered items and addresses.
+   
+---
+
+## Screenshots
+
+### Home Page
+_Showcasing products with add-to-cart functionality._  
+![Home Page Screenshot](https://github.com/user-attachments/assets/home-page.png)
+
+### Shopping Cart Page
+_Cart summary with options to update quantities or remove items._  
+![Shopping Cart Screenshot](https://github.com/user-attachments/assets/cart-page.png)
+
+### Checkout Page (billing.html)
+_Enter billing information, apply promo codes, and choose a payment method._  
+![Billing Page Screenshot](https://github.com/user-attachments/assets/billing-page.png)
+
+### Order Confirmation Page
+_View detailed order summary, billing, and shipping information._  
+![Order Confirmation Page Screenshot](https://github.com/user-attachments/assets/order-confirmation-page.png)
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contributors
+
+- **Tanishgol** - _Initial development_
+
+A heartfelt thanks to my mentor **A heartfelt thanks to my mentor **[Rushita Gondaliya](https://www.linkedin.com/in/rushita-gondaliya-588a0b258/)** for her valuable guidance and support throughout the project.** for their valuable guidance and support throughout the project.
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Tanishgol/E_Commerce/issues).
+
