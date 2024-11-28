@@ -98,19 +98,22 @@ An e-commerce website with essential features for browsing products, managing a 
 
 ### Home Page
 _Showcasing products with add-to-cart functionality._  
-![Home Page Screenshot](https://github.com/user-attachments/assets/home-page.png)
+![Home Page Screenshot](https://github.com/user-attachments/assets/9609df32-f86b-4bb1-813a-d9305db83dbf)
 
 ### Shopping Cart Page
 _Cart summary with options to update quantities or remove items._  
-![Shopping Cart Screenshot](https://github.com/user-attachments/assets/cart-page.png)
+![Shopping Cart Screenshot](https://github.com/user-attachments/assets/f533bb18-6b13-4af2-9039-eee85acbf67d)
+
 
 ### Checkout Page (billing.html)
 _Enter billing information, apply promo codes, and choose a payment method._  
-![Billing Page Screenshot](https://github.com/user-attachments/assets/billing-page.png)
+![Billing Page Screenshot](https://github.com/user-attachments/assets/c682cd74-fe0c-4d18-99cf-4781dcd81075)
+
 
 ### Order Confirmation Page
 _View detailed order summary, billing, and shipping information._  
-![Order Confirmation Page Screenshot](https://github.com/user-attachments/assets/order-confirmation-page.png)
+![Order Confirmation Page Screenshot](https://github.com/user-attachments/assets/70b8e062-f3f1-4b21-abcf-594603ed5f44)
+
 
 ---
 
@@ -123,6 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributors
 
 - **Tanishgol** - _Initial development_
+- **Rushita Gondaliya** - _Mentor and Guidance_
 
 A heartfelt thanks to my mentor **A heartfelt thanks to my mentor **[Rushita Gondaliya](https://www.linkedin.com/in/rushita-gondaliya-588a0b258/)** for her valuable guidance and support throughout the project.** for their valuable guidance and support throughout the project.
 
